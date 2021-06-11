@@ -1,0 +1,10 @@
+.screen{
+    background-color: rgb(173, 166, 166);
+    height:180px;
+    margin:auto;
+    text-align: center;
+}
+.card{
+   text-align: center;
+   margin:30px;
+}

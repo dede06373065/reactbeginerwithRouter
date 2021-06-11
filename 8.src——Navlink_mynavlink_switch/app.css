@@ -1,0 +1,10 @@
+.content{
+    display: flex;
+}
+.show{
+    border:1px solid blue;
+}
+.mynav{
+    background-color: orange;
+    color:wheat;
+}
